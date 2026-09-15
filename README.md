@@ -26,7 +26,7 @@
 - [Cybersecurity Essentials](https://www.credly.com/badges/9c0a0e51-98fd-472c-be39-e2c8f5eee626/public_url)
 
 
-<h2> 🤳🏾 Connect with me:</h2>
+<h2> 💬Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
