@@ -1,6 +1,6 @@
 <h1>Hi, I'm Anthony! </h1>
 
-<h2>👨🏾‍💻 Projects:</h2>
+<h2> Projects:</h2>
 
   - [Home Folders](https://github.com/diontep/Home-Folders/blob/main/README.md)
   - [Basic Security GPO](https://github.com/diontep/Basic-Security-GPO)
